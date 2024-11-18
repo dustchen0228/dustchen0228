@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 I am a currently a third-year student in the Department of Information Engineering at [TamKang University](https://tku.edu.tw) in Taiwan.
 I am interested in research coding, because I would to be a engineer in the future, I would to learn more and more knowledge of coding.
 
@@ -23,4 +23,7 @@ I am interested in research coding, because I would to be a engineer in the futu
 
 ## 💞️ I’m looking to collaborate on ...
 
-## 📫 How to reach me?  You can sent email to dfg39756751@gmail.com or call the phone number 0966488802.
+## 📫 How to reach me?  
+- Email: [dfg39756751@gmail.com](mailto:melvin0kuo@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/dustchen/](https://www.linkedin.com/in/dustchen/)
+- GitHub: [https://github.com/dustchen0228](https://github.com/dustchen0228)
