@@ -11,7 +11,7 @@ I am interested in research coding, because I would to be a engineer in the futu
 - Material-ui, Antd, Bootstrap
 - JavaScript, TypeScript
 - React, Redux, Redux-Saga React-Router, Next.js
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
+- HTML
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
