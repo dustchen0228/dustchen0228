@@ -18,6 +18,7 @@ I am interested in research coding, because I would to be a engineer in the futu
 - Test Driven Developer
 - Open Source Projects
 - Travis-CI
+- Visual Studio Code
 
 ## 🌱 I’m currently learning ...
 
