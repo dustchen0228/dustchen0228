@@ -34,16 +34,3 @@ I am currently learning about information security, and am also focusing on fron
 - LinkedIn: [https://www.linkedin.com/in/dustchen/](https://www.linkedin.com/in/dustchen/)
 - GitHub: [https://github.com/dustchen0228](https://github.com/dustchen0228)
 
-# Links to the example headings above
-
-Link to About me: [Here](#-about-me).
-
-Link to the Langues and Frameworks: [Here](#-langues-and-frameworks).
-
-Link to the Tool: [Here](#-tool).
-
-Link to I'm currently learning: [Here](#-i'm-currently-learning).
-
-Link to My projects: [Here](#-my-projects).
-
-Link to How to reach me: [Here](#-how-to-reach-me)
