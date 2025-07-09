@@ -1,8 +1,9 @@
 # 👋 Hi there!
 
 ## 👨‍💻 About me
-I am a currently a third-year student in the Department of Information Engineering at [TamKang University](https://tku.edu.tw) in Taiwan.
+I am a currently a fourth-year student in the Department of Information Engineering at [TamKang University](https://tku.edu.tw) in Taiwan.
 I am interested in research coding, because I would to be a engineer in the future, I would to learn more and more knowledge of coding.
+In addition, I am also interested in computer-related hardware, so I am studying in the school's computer maintenance team and am currently working towards an advanced certificate.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
@@ -20,7 +21,11 @@ I am interested in research coding, because I would to be a engineer in the futu
 - Travis-CI
 - Visual Studio Code
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning
+I am currently learning about information security, and am also focusing on front-end web development. 
+
+## 🚀My projects
+**Benign and malignant pulmonary nodules auxiliary system** : The dual-channel input method is used to judge the benign or malignant nature of lung nodules, thereby reducing the occurrence of accidents caused by excessive clinical pressure on physicians.
 
 ## 💞️ I’m looking to collaborate on ...
 
@@ -28,3 +33,17 @@ I am interested in research coding, because I would to be a engineer in the futu
 - Email: [dfg39756751@gmail.com](mailto:melvin0kuo@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/dustchen/](https://www.linkedin.com/in/dustchen/)
 - GitHub: [https://github.com/dustchen0228](https://github.com/dustchen0228)
+
+# Links to the example headings above
+
+Link to About me: [Link Text](#about-me).
+
+Link to the Langues and Frameworks: [Link Text](#langues-and-frameworks).
+
+Link to the Tool: [Link Text](#tool).
+
+Link to I'm currently learning: [Link Text](#i'm-currently-learning).
+
+Link to My projects: [Link Text](#my-projects).
+
+Link to How to reach me: [Link Text](#how-to-reach-me)
