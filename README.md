@@ -36,14 +36,14 @@ I am currently learning about information security, and am also focusing on fron
 
 # Links to the example headings above
 
-Link to About me: [Link Text](#about-me).
+Link to About me: [Here](#-about-me).
 
-Link to the Langues and Frameworks: [Link Text](#langues-and-frameworks).
+Link to the Langues and Frameworks: [Here](#-langues-and-frameworks).
 
-Link to the Tool: [Link Text](#tool).
+Link to the Tool: [Here](#-tool).
 
-Link to I'm currently learning: [Link Text](#i'm-currently-learning).
+Link to I'm currently learning: [Here](#-i'm-currently-learning).
 
-Link to My projects: [Link Text](#my-projects).
+Link to My projects: [Here](#-my-projects).
 
-Link to How to reach me: [Link Text](#how-to-reach-me)
+Link to How to reach me: [Here](#-how-to-reach-me)
