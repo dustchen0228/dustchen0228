@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 ## 👨‍💻 About me
-I am a currently a fourth-year student in the Department of Information Engineering at [TamKang University](https://tku.edu.tw) in Taiwan.
+I am currently a first-year Master's student in the Department of Degree Program in Artificial Intelligence Technology at the National Taipei University of Technology (NTUT), having previously graduated from TamKang University (TKU).
 I am interested in research coding, because I would to be a engineer in the future, I would to learn more and more knowledge of coding.
 In addition, I am also interested in computer-related hardware, so I am studying in the school's computer maintenance team and am currently working towards an advanced certificate.
 
