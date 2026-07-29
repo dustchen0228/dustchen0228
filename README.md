@@ -1,8 +1,7 @@
 # 👋 Hi there!
 
 ## 👨‍💻 About me
-I am currently a first-year master's student in the Artificial Intelligence Technology program at the National Taipei University of Technology (NTUT), having completed my undergraduate studies at Tamkang University (TKU). 
-I have a strong interest in programming and software development; aspiring to become an engineer, I am committed to continuously learning and mastering programming skills. Additionally, I am interested in computer hardware—an interest that led me to join my university's computer maintenance team—and I am currently focusing on research related to technologies such as drones and autonomous vehicles.
+I am currently a first-year master's student specializing in Artificial Intelligence Technology at the National Taipei University of Technology (NTUT), having previously graduated from Tamkang University (TKU). I have a strong interest in programming and software development; I aspire to become an engineer and am dedicated to continuously learning and honing my coding skills. Additionally, I am passionate about computer hardware—an interest that led me to join the campus computer maintenance team—and I am currently focusing on research related to technologies such as drones and autonomous vehicles.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
